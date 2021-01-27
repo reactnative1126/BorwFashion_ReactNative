@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502694621068",
+    "firebase_url": "https://borw-73422.firebaseio.com",
+    "project_id": "borw-73422",
+    "storage_bucket": "borw-73422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502694621068:android:ca6e030f0f7bc982b1b0a9",
+        "android_client_info": {
+          "package_name": "com.borw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502694621068-cd0b2f43aa0f0aqe4kpjvsoedh5uvrm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlPA9YwA702PGj_cIXrfYFeMvSO9XFmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502694621068-cd0b2f43aa0f0aqe4kpjvsoedh5uvrm3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502694621068-4jm5ufie9gl9t09i6u1md2leheirdk1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.borw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
