@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "410788751750",
+    "firebase_url": "https://borw-staging.firebaseio.com",
+    "project_id": "borw-staging",
+    "storage_bucket": "borw-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410788751750:android:96dfd84201045111686407",
+        "android_client_info": {
+          "package_name": "com.borw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410788751750-733ju4u73vca61b05n9ch4fj3afolq57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMtAlCVRwaDYmPYu2NNNr7Yex48lc428"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410788751750-733ju4u73vca61b05n9ch4fj3afolq57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410788751750-uo3a71skhg11pp9r2kl1d61056ec3m6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.borw.development"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410788751750:android:3289c8568aadfce5686407",
+        "android_client_info": {
+          "package_name": "com.borwapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410788751750-ssr9jl1qbfc3io71v4hf4oarlhrh8oo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.borwapp",
+            "certificate_hash": "6ebc13b308495a0ec1256000e98f9e1065935dfb"
+          }
+        },
+        {
+          "client_id": "410788751750-733ju4u73vca61b05n9ch4fj3afolq57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMtAlCVRwaDYmPYu2NNNr7Yex48lc428"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410788751750-733ju4u73vca61b05n9ch4fj3afolq57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410788751750-uo3a71skhg11pp9r2kl1d61056ec3m6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.borw.development"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
