@@ -1,8 +1,8 @@
 ![React Native Apps](http://i.imgur.com/MmGT6cn.png "React Native Apps")
 
-This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://expo.dev/) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# HouseSigma (Brokier) Real Estates App 
+# Borw Fashion Mobile Application
 
 ![platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17)
 ![star this repo](https://img.shields.io/github/stars/react-native-webview/react-native-webview?style=flat-square)
@@ -10,12 +10,12 @@ This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://ex
 [![NPM Version](https://img.shields.io/npm/v/react-native-webview.svg?style=flat-square)](https://www.npmjs.com/package/react-native-webview)
 ![Npm Downloads](https://img.shields.io/npm/dm/react-native-webview.svg)
 
-<img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/icons/icon.png" width="80">
+<img src="https://github.com/reactnative1126/BorwFashion_ReactNative/blob/master/src/assets/images/icon.png" width="80">
 
 ## Download
 
-[![App Store Button](http://imgur.com/y8PTxr9.png "App Store Button")](https://apps.apple.com/us/app/housesigma-canada-real-estate/id1255490256)
-[![Play Store Button](http://imgur.com/utWa1co.png "Play Store Button")](https://play.google.com/store/search?q=house%20sigma&c=apps&hl=en_US&gl=US)
+[![App Store Button](http://imgur.com/y8PTxr9.png "App Store Button")](https://apps.apple.com/ca/app/borw/id1504578577)
+[![Play Store Button](http://imgur.com/utWa1co.png "Play Store Button")](https://play.google.com/store/apps/details?id=com.borw&hl=en_US&gl=US)
 
 <!-- <a href="https://play.google.com/store/search?q=house%20sigma&c=apps&hl=en_US&gl=US">
   <img alt="Download on Google Play" src="https://play.google.com/intl/en_us/badges/images/badge_new.png" height=43>
@@ -28,7 +28,7 @@ This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://ex
 
 Welcome to my project! Below are my favorite videos and screenshots related to this project:
 
-<a href="https://vimeo.com/958085780">
+<a href="https://vimeo.com/958085312">
    <img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/screens/3.png" width="500" alt="Screen 3" hspace="5">
 </a>
 
@@ -36,7 +36,7 @@ Welcome to my project! Below are my favorite videos and screenshots related to t
 
 ## Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till the "Creating a new application" step, before proceeding.
 
 ### Step 1: Start the Metro Server
 
@@ -56,21 +56,23 @@ yarn start
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
-#### for first time
-	- Step 1: Install rvm https://rvm.io/rvm/install
-  ```\curl -sSL https://get.rvm.io | bash```
+#### For the first time
 
-	- Step 2: Sync terminal: https://stackoverflow.com/questions/11677771/rvm-command-not-found-mac-ox
-  ```$ source ~/.rvm/scripts/rvm```
+- Step 1: Install rvm https://rvm.io/rvm/install
+```\curl -sSL https://get.rvm.io | bash```
 
-	- Step 3:
-  ```$ cd ./fastlane```
-  run to install bundler
-  ```gem install bundler```
+- Step 2: Sync terminal: https://stackoverflow.com/questions/11677771/rvm-command-not-found-mac-ox
+```$ source ~/.rvm/scripts/rvm```
 
-#### If already install bundler
-	- Step 4: run bundle to install fastlane and some dependent libraries
-  ```bundle```
+- Step 3:
+```$ cd ./fastlane```
+run to install bundler
+```gem install bundler```
+
+#### If already installed bundler
+
+- Step 4: run bundle to install fastlane and some dependent libraries
+```bundle```
 
 #### For iOS & Android
 
@@ -125,15 +127,6 @@ You've successfully run and modified your React Native App. :partying_face:
     <td align="center"><a href="https://github.com/kpsroka"><img src="https://avatars0.githubusercontent.com/u/24893014?v=4" width="100px;" alt="K. P. Sroka"/><br /><sub><b>K. P. Sroka</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=kpsroka" title="Code">💻</a> <a href="https://github.com/callstack/react-native-paper/commits?author=kpsroka" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/iyadthayyil"><img src="https://avatars2.githubusercontent.com/u/11161020?v=4" width="100px;" alt="Iyad Thayyil"/><br /><sub><b>Iyad Thayyil</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=iyadthayyil" title="Code">💻</a> <a href="https://github.com/callstack/react-native-paper/commits?author=iyadthayyil" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://hundeloh-consulting.ch/"><img src="https://avatars1.githubusercontent.com/u/5358638?v=4" width="100px;" alt="Julian Hundeloh"/><br /><sub><b>Julian Hundeloh</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=jaulz" title="Code">💻</a> <a href="https://github.com/callstack/react-native-paper/commits?author=jaulz" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/grzegorzgawrysiak/"><img src="https://avatars3.githubusercontent.com/u/7827311?v=4" width="100px;" alt="Grzegorz Gawrysiak"/><br /><sub><b>Grzegorz Gawrysiak</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=gawrysiak" title="Code">💻</a> <a href="https://github.com/callstack/react-native-paper/commits?author=gawrysiak" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/luissmg"><img src="https://avatars2.githubusercontent.com/u/20660551?v=4" width="100px;" alt="Luís"/><br /><sub><b>Luís</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=luissmg" title="Code">💻</a></td>
-    <td align="center"><a href="https://raajnadar.in"><img src="https://avatars1.githubusercontent.com/u/17236768?v=4" width="100px;" alt="Rajendran Nadar"/><br /><sub><b>Rajendran Nadar</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=raajnadar" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/brentvatne"><img src="https://avatars2.githubusercontent.com/u/90494?v=4" width="100px;" alt="Brent Vatne"/><br /><sub><b>Brent Vatne</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=brentvatne" title="Code">💻</a></td>
-    <td align="center"><a href="https://jukben.cz"><img src="https://avatars3.githubusercontent.com/u/8135252?v=4" width="100px;" alt="Jakub Beneš"/><br /><sub><b>Jakub Beneš</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=jukben" title="Code">💻</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://twitter.com/_panpawel"><img src="https://avatars3.githubusercontent.com/u/3886886?v=4" width="100px;" alt="Paweł Szymański"/><br /><sub><b>Paweł Szymański</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=pan-pawel" title="Code">💻</a> <a href="https://github.com/callstack/react-native-paper/commits?author=pan-pawel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jayu"><img src="https://avatars1.githubusercontent.com/u/11561585?v=4" width="100px;" alt="Kuba"/><br /><sub><b>Kuba</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=jayu" title="Code">💻</a> <a href="#ideas-jayu" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/jbinda"><img src="https://avatars2.githubusercontent.com/u/21242757?v=4" width="100px;" alt="jbinda"/><br /><sub><b>jbinda</b></sub></a><br /><a href="https://github.com/callstack/react-native-paper/commits?author=jbinda" title="Code">💻</a> <a href="#ideas-jbinda" title="Ideas, Planning, & Feedback">🤔</a></td>
@@ -155,4 +148,4 @@ To learn more about React Native, take a look at the following resources:
 
 ## License
 
-HouseSigma(Brokier) React Native mobile application is licensed under [The MIT License](LICENSE) © Silas Jones 2017-
+Borw React Native mobile application is licensed under [The MIT License](LICENSE) © Silas Jones 2017-
